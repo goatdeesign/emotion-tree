@@ -1,7 +1,0 @@
-{
-  "name": "Emotion Tree-15",
-  "description": "An immersive interactive generative art tree driven by facial expressions and hand gestures.",
-  "requestFramePermissions": [
-    "camera"
-  ]
-}
